@@ -1,2 +1,2 @@
 # push-demo
-var hello;
+function b;
